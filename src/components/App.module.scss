@@ -1,0 +1,24 @@
+.app {
+}
+
+.value {
+  color: blue;
+  font-weight: 700;
+}
+
+.nav {
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+}
+
+.img {
+  width: 200px;
+  height: 200px;
+}
+
+.svg {
+  width: 200px;
+  height: 200px;
+  color: yellow;
+}
